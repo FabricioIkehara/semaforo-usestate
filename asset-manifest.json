@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FabricioIkehara/semaforo-usestate/static/css/main.0769b4dc.css",
-    "main.js": "/FabricioIkehara/semaforo-usestate/static/js/main.84cff8c2.js",
-    "static/js/453.1b5588d0.chunk.js": "/FabricioIkehara/semaforo-usestate/static/js/453.1b5588d0.chunk.js",
-    "index.html": "/FabricioIkehara/semaforo-usestate/index.html",
-    "main.0769b4dc.css.map": "/FabricioIkehara/semaforo-usestate/static/css/main.0769b4dc.css.map",
-    "main.84cff8c2.js.map": "/FabricioIkehara/semaforo-usestate/static/js/main.84cff8c2.js.map",
-    "453.1b5588d0.chunk.js.map": "/FabricioIkehara/semaforo-usestate/static/js/453.1b5588d0.chunk.js.map"
+    "main.css": "/semaforo-usestate/static/css/main.0769b4dc.css",
+    "main.js": "/semaforo-usestate/static/js/main.ecbd7e47.js",
+    "static/js/453.1b5588d0.chunk.js": "/semaforo-usestate/static/js/453.1b5588d0.chunk.js",
+    "index.html": "/semaforo-usestate/index.html",
+    "main.0769b4dc.css.map": "/semaforo-usestate/static/css/main.0769b4dc.css.map",
+    "main.ecbd7e47.js.map": "/semaforo-usestate/static/js/main.ecbd7e47.js.map",
+    "453.1b5588d0.chunk.js.map": "/semaforo-usestate/static/js/453.1b5588d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0769b4dc.css",
-    "static/js/main.84cff8c2.js"
+    "static/js/main.ecbd7e47.js"
   ]
 }
